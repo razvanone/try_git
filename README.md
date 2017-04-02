@@ -4,4 +4,4 @@ This is a local change.
 
 Remote modify.
 
-Remote change only.
+Local change only, with commit.
